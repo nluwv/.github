@@ -1,4 +1,6 @@
-<img align="right" width="150" src="uwv.png" />
+<picture>
+  <img src="uwv.png" alt="UWV logo" title="UWV" align="right" height="64">
+</picture>
 
 # Uitvoeringsinstituut Werknemersverzekeringen
 
